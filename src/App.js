@@ -264,7 +264,7 @@ const copyEmailToClipboard = async () => {
       </div>
       <div className="h-[calc(95vh-80px)]">
         <iframe
-          src="/Mohanad_Aldakheel_.pdf"
+          src="/Mohanad_Aldakheel.pdf"
           className="w-full h-full border-0"
           title="Mohanad Al Dakheel Resume"
         />
